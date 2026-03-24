@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title>ARCHIVE MODULE SOL LLC</title>
+  <desc>Custom favicon for ARCHIVE MODULE SOL LLC</desc>
+  <defs>
+    <linearGradient id="bg" x1="8" x2="56" y1="6" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#231711" />
+      <stop offset="1" stop-color="#120c09" />
+    </linearGradient>
+    <linearGradient id="spark" x1="20" x2="45" y1="15" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd8ab" />
+      <stop offset="0.55" stop-color="#f0a35b" />
+      <stop offset="1" stop-color="#c8742e" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)" />
+  <path
+    fill="url(#spark)"
+    d="M25 12h15L33 27h10L25 52l5-18h-9l4-9h-7z"
+  />
+  <path
+    fill="none"
+    stroke="rgba(255,216,171,0.35)"
+    stroke-width="1.5"
+    d="M16 50c8-6 18-9 32-9"
+  />
+</svg>
