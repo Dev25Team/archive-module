@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 import {
-  BrowserRouter,
+  HashRouter,
   Link,
   NavLink,
   Route,
@@ -51,9 +51,9 @@ const websiteUrl = 'https://www.archivemodulesolllc.online/'
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <SiteShell />
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
